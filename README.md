@@ -1,14 +1,24 @@
-# Simple Calculator using Tkinter
+# Basic Calculator with Tkinter
 
-This is a basic calculator application built with Python and Tkinter, a standard GUI library in Python.
+Experience the simplicity of our basic calculator application, crafted using Python and Tkinter, a widely-used Python GUI library.
 
 ## Features
 
-- Performs addition, subtraction, multiplication, and division operations.
-- Supports decimal numbers.
-- Provides a clear button to reset the input.
+🧮 Effortlessly perform arithmetic operations, including addition, subtraction, multiplication, and division.
 
-## Requirements
+🔍 Utilize decimal numbers for precision in your calculations.
 
-- Python 3.x
-- Tkinter (usually included in Python installations)
+🔄 Reset your input with a single click using the convenient clear button.
+
+## System Requirements
+
+To use this calculator, ensure you have the following:
+
+- Python 3.x installed on your system.
+- Tkinter, a standard component often bundled with Python installations.
+
+## Screenshot
+
+![Calculator Screenshot](sc.png)
+
+📸 Here's a visual preview of our calculator application.
